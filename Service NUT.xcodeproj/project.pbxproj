@@ -12,6 +12,7 @@
 		4A29E1D31FDBA34200C373DC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A29E1D11FDBA34200C373DC /* Main.storyboard */; };
 		4A29E1D51FDBA34200C373DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A29E1D41FDBA34200C373DC /* Assets.xcassets */; };
 		4A29E1D81FDBA34200C373DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A29E1D61FDBA34200C373DC /* LaunchScreen.storyboard */; };
+		4A29E1E01FDBB45D00C373DC /* if_bulldozer_45455.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A29E1DF1FDBB45D00C373DC /* if_bulldozer_45455.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4A29E1D41FDBA34200C373DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A29E1D71FDBA34200C373DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4A29E1D91FDBA34200C373DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A29E1DF1FDBB45D00C373DC /* if_bulldozer_45455.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = if_bulldozer_45455.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				4A29E1CF1FDBA34200C373DC /* ViewController.swift */,
 				4A29E1D11FDBA34200C373DC /* Main.storyboard */,
 				4A29E1D41FDBA34200C373DC /* Assets.xcassets */,
+				4A29E1DF1FDBB45D00C373DC /* if_bulldozer_45455.png */,
 				4A29E1D61FDBA34200C373DC /* LaunchScreen.storyboard */,
 				4A29E1D91FDBA34200C373DC /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A29E1E01FDBB45D00C373DC /* if_bulldozer_45455.png in Resources */,
 				4A29E1D81FDBA34200C373DC /* LaunchScreen.storyboard in Resources */,
 				4A29E1D51FDBA34200C373DC /* Assets.xcassets in Resources */,
 				4A29E1D31FDBA34200C373DC /* Main.storyboard in Resources */,
